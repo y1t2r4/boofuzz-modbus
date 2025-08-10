@@ -48,4 +48,4 @@ in cmd: python modbus.py
 ```
 
 enjoy your fuzzing ! 
-if you have some problem ,contact gmail:youngtala@gmail.com
+if you have some problem ,contact 
